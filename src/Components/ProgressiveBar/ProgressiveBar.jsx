@@ -101,7 +101,7 @@ const ProgressiveBar = ({ bgcolor, height }) => {
       </div>
       {/* Modal */}
       <div style={modalStyle}>
-        <p style={{ textAlign: 'center', marginBottom: '20px' }}>Download Completed!</p>
+        <p style={{ textAlign: 'center', marginBottom: '20px' }}>Mission Completed!</p>
         <button style={modalButton} onClick={closeModal}>OK</button>
       </div>
     </div>
